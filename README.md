@@ -12,7 +12,7 @@ Get all the customers
 
 - Update customers
 
-- elete customers
+- delete customers
 
 - Deposit money to customer
 
